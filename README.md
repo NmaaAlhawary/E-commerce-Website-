@@ -2,13 +2,9 @@ EJ Website
 
 EJ Website is an e-commerce platform dedicated to selling customized flowers and cakes, designed specifically for customers in Jordan and the United Arab Emirates.
 
-Project Overview
+**Project Overview**
 
 The platform was developed as part of my second-year studies at HTU University. It reflects my early hands-on experience in both front-end and back-#   EJ Website
-
-**EJ Website** is an e-commerce platform dedicated to selling **customized flowers and cakes**, available exclusively in **Jordan** and the **United Arab Emirates**.  
-
-This project was created as part of my **second-year studies at HTU University**, showcasing my early experience in **front-end** and **back-end** web development.
 
 ---
 
@@ -40,7 +36,7 @@ This project was created as part of my **second-year studies at HTU University**
 
 ---
 
-## 🎓 Educational Context
+##  Educational Context
 
 This project was developed as part of a **university coursework** to demonstrate skills in **web design**, **user interface development**, and **basic full-stack integration**.
 
